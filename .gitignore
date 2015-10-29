@@ -13,3 +13,4 @@ src/MonoTorrent/obj/
 *.suo
 /src/MonoTorrent.Tests/obj/Debug
 /src/packages
+*.userprefs
